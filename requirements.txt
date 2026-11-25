@@ -1,0 +1,4 @@
+numpy>=1.22
+matplotlib>=3.5
+# optional: faster connected components, distances and hole filling
+# scipy>=1.8
